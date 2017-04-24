@@ -3,9 +3,9 @@
   "version": "0.14.10",
   "factorio_version": "0.14",
   "title": "Bob's Locale Translations",
-  "author": "Bobingabout, Talon, Alexandehorst, Karosieben, Killwort, ChristianBeer, xganzx, sore68, scarsick, Sturmfalke,  somaplus, mrtska, bethouxa, Azertooth, Chicos123, Lorex, Cool-T, Dawider10, Wesdesignz, burunduk, dima-nixx",
+  "author": "Karosieben, Bobingabout",
   "contact": "karosieben.playsgames@gmail.com",
   "homepage": "http://www.factorioforums.com/forum/viewforum.php?f=51",
-  "description": "Adds translations for Bob's mods and ShinyBob from the Community.",
+  "description": "Adds translations for Bob's mods and ShinyBob from the Community. Contributors: Bobingabout, Talon, Alexandehorst, Karosieben, Killwort, ChristianBeer, xganzx, sore68, scarsick, Sturmfalke,  somaplus, mrtska, bethouxa, Azertooth, Chicos123, Lorex, Cool-T, Dawider10, Wesdesignz, burunduk, dima-nixx",
   "dependencies": ["base >= 0.14.0", "boblibrary >= 0.14.0", "? ShinyBob >= 0.14.6"]
 }
