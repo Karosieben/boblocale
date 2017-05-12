@@ -1,0 +1,10 @@
+Turkish translation by SperraDoz (pigeoncathcer/github)
+
+
+
+SideNotes: 
+-- bob-fluid-products=Bob'un Sıvı Yöntemleri is a bit off but otherwise it will call something else in Turkish :D.
+-- There is literally no translation for "spawner" so I used something more like "maker"
+
+TODO: 
+--"filter-long-near-inserter=Filter long in near inserter" couldn't translate. Not enough info in the sentence.
