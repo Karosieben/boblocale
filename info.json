@@ -6,6 +6,6 @@
   "author": "Karosieben, Bobingabout",
   "contact": "karosieben.playsgames@gmail.com",
   "homepage": "http://www.factorioforums.com/forum/viewforum.php?f=51",
-  "description": "Adds translations for Bob's mods, ShinyBob, CMHMods, Bob's Ore Presets and BobsFlowcontrol from the Community. Contributors: Bobingabout, Talon, Alexandehorst, Killwort, ChristianBeer, xganzx, sore68, scarsick, Sturmfalke,  somaplus, mrtska, bethouxa, Azertooth, Chicos123, Lorex, Cool-T, Dawider10, Wesdesignz, burunduk, dima-nixx, SperraDoz, davv, depoz0, IamIpanda, Ronkhar, z1124124",
+  "description": "Adds translations for Bob's mods, ShinyBob, CMHMods, Bob's Ore Presets and BobsFlowcontrol from the Community. Contributors: Bobingabout, Talon, Alexandehorst, Killwort, ChristianBeer, xganzx, sore68, scarsick, Sturmfalke,  somaplus, mrtska, bethouxa, Azertooth, Chicos123, Lorex, Cool-T, Dawider10, Wesdesignz, burunduk, dima-nixx, SperraDoz, davv, depoz0, IamIpanda, Ronkhar, z1124124, TharagonX",
   "dependencies": ["base >= 0.16.0", "boblibrary >= 0.16.0", "? ShinyBobGFX >= 0.16.0", "? bobsflowcontrol >= 0.16.0", "? CMHMod >= 0.16.0", "? CMHModBobEndGame >= 0.16.0", "? preset-for-bobs-ores >= 0.16.0"]
 }
