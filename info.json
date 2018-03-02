@@ -1,11 +1,11 @@
 {
   "name": "boblocale",
-  "version": "0.15.4",
-  "factorio_version": "0.15",
+  "version": "0.16.6",
+  "factorio_version": "0.16",
   "title": "Bob's Locale Translations",
   "author": "Karosieben, Bobingabout",
   "contact": "karosieben.playsgames@gmail.com",
   "homepage": "http://www.factorioforums.com/forum/viewforum.php?f=51",
-  "description": "Adds translations for Bob's mods, ShinyBob, CMHMods, Bob's Ore Presets and BobsFlowcontrol from the Community. Contributors: Bobingabout, Talon, Alexandehorst, Killwort, ChristianBeer, xganzx, sore68, scarsick, Sturmfalke,  somaplus, mrtska, bethouxa, Azertooth, Chicos123, Lorex, Cool-T, Dawider10, Wesdesignz, burunduk, dima-nixx, SperraDoz, davv, depoz0, IamIpanda",
-  "dependencies": ["base >= 0.15.0", "boblibrary >= 0.15.0", "? ShinyBob >= 0.15.0", "? bobsflowcontrol >= 0.15.1", "? bobmods_gfxtweak >= 0.15.1", "? CMHMod >= 0.15.2", "? CMHModBobEndGame >= 0.15.2", "? preset-for-bobs-ores >= 0.15.0"]
+  "description": "Adds translations for Bob's mods, ShinyBob, CMHMods, Bob's Ore Presets and BobsFlowcontrol from the Community. Contributors: Bobingabout, Talon, Alexandehorst, Killwort, ChristianBeer, xganzx, sore68, scarsick, Sturmfalke,  somaplus, mrtska, bethouxa, Azertooth, Chicos123, Lorex, Cool-T, Dawider10, Wesdesignz, burunduk, dima-nixx, SperraDoz, davv, depoz0, IamIpanda, Ronkhar, z1124124, TharagonX, Firerazer, RikkiLook, Apsimati, Xagros, asyariruby, shirutan",
+  "dependencies": ["base >= 0.16.0", "boblibrary >= 0.16.0", "? ShinyBobGFX >= 0.16.0", "? bobsflowcontrol >= 0.15.1", "? CMHMod >= 0.16.0", "? CMHModBobEndGame >= 0.16.0", "? preset-for-bobs-ores >= 0.16.0"]
 }
