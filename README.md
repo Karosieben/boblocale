@@ -24,10 +24,16 @@ Supported mods:
   * [Bob's Tech](https://mods.factorio.com/mod/bobtech)
   * [Bob's Vehicle Equipment](https://mods.factorio.com/mod/bobvehicleequipment)
   * [Bob's Warfare](https://mods.factorio.com/mod/bobwarfare)
-* [ShinyBob](https://mods.factorio.com/mod/ShinyBob)
+* [ShinyBobGFX](https://mods.factorio.com/mod/ShinyBobGFX)
+* [ShinyBob_Menus](https://mods.factorio.com/mod/ShinyBob_Menus)
+* [ShinyBob_Graphics](https://mods.factorio.com/mod/ShinyBob_Graphics)
+* [ShinyBob_Icons](https://mods.factorio.com/mod/ShinyBob_Icons)
+
+Outdated, but partial Supported:
 * CMHMods
-  * [Rebalancing Bob's Mods](https://mods.factorio.com/mod/CMHMod)
-  * [Bob's End Game](https://mods.factorio.com/mod/CMHModBobEndGame)
+    * [Rebalancing Bob's Mods](https://mods.factorio.com/mod/CMHMod)
+    * [Bob's End Game](https://mods.factorio.com/mod/CMHModBobEndGame)
+* [ShinyBob](https://mods.factorio.com/mod/ShinyBob) (old version)
 * [Map Gen Preset for Bob's Ores](https://mods.factorio.com/mod/preset-for-bobs-ores)
 * [Bob's GFXtweak](https://mods.factorio.com/mod/bobmods_gfxtweak)
 * [BobsFlowcontrol](https://mods.factorio.com/mod/bobsflowcontrol)
