@@ -2,3 +2,4 @@
 .gitignore export-ignore
 locale/en/ export-ignore
 locale/template/ export-ignore
+locale/*/old export-ignore

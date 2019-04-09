@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.17.0
+Date: 2019-03-04
+  First rough release for 0.17.0
+      - Updated polish translation by MrSnooker
+      - Updated french translation by bethouxa
+      - Updated japanese translation by shirutan
+      - Updated korean translation by GimoXagros
