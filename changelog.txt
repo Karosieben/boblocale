@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.17.1
+Date: 2019-08-02
+      - Added changelog (obviously)
+      - Updated ukrainian translation by burunduk
+      - Updated taiwanese translation by k98a
+      - Updated japanese translation by shirutan
+      - Updated russian translation by Schmarotzer
+      - Updated german translation by LMBlackWolf and Karosieben
+      - Dropped support for various outdated mods
+      
+---------------------------------------------------------------------------------------------------
 Version: 0.17.0
 Date: 2019-03-04
   First rough release for 0.17.0
