@@ -1,23 +1,44 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.17.3
+Date: 2019-08-09
+  Features:
+    - Added support for bobsflowcontrol-updated
+
+  Changes:
+    - Updated japanese translation by shirutan
+    - Updated german translation by Karosieben
+
+  Other:
+    - Removed support for some deprecated mods
+
+---------------------------------------------------------------------------------------------------
 Version: 0.17.2
 Date: 2019-08-02
-      - Fixed typo in german translation
+  Bugfixes:
+    - Fixed typo in german translation
+
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.1
 Date: 2019-08-02
-      - Added changelog (obviously)
-      - Updated ukrainian translation by burunduk
-      - Updated taiwanese translation by k98a
-      - Updated japanese translation by shirutan
-      - Updated russian translation by Schmarotzer
-      - Updated german translation by LMBlackWolf and Karosieben
-      - Dropped support for various outdated mods
-      
+  Features:
+    - Added changelog (obviously)
+
+    Changes:
+    - Updated ukrainian translation by burunduk
+    - Updated taiwanese translation by k98a
+    - Updated japanese translation by shirutan
+    - Updated russian translation by Schmarotzer
+    - Updated german translation by LMBlackWolf and Karosieben
+    - Dropped support for various outdated mods
+
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.0
 Date: 2019-03-04
-  First rough release for 0.17.0
-      - Updated polish translation by MrSnooker
-      - Updated french translation by bethouxa
-      - Updated japanese translation by shirutan
-      - Updated korean translation by GimoXagros
+  Info:
+    First rough release for 0.17.0
+
+  Changes:
+    - Updated polish translation by MrSnooker
+    - Updated french translation by bethouxa
+    - Updated japanese translation by shirutan
+    - Updated korean translation by GimoXagros
