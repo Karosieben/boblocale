@@ -1,0 +1,12 @@
+locale/zh-TW/zh-TW已改.rar
+locale/*/old
+/.project
+scripts
+.DS_Store
+.git
+.gitignore
+.gitattributes
+*.zip
+.makeignore
+boblocale_*
+makefile
