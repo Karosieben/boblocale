@@ -11,6 +11,9 @@ Date: 2019-08-09
   Other:
     - Removed support for some deprecated mods
 
+  Debug:
+    - Added makefile to git repository to draft versions quicker
+
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.2
 Date: 2019-08-02
