@@ -3,5 +3,8 @@ locale/*/old
 /.project
 scripts
 .DS_Store
+.git
 .gitignore
 .gitattributes
+*.zip
+boblocale_*
