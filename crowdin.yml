@@ -1,1 +1,5 @@
-files: []
+files:
+  - source: /locale/en
+    ignore:
+      - /locale/en/old
+    translation: /locale/%two_letters_code%/%file_name%.cfg
