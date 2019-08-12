@@ -2,4 +2,4 @@ files:
   - source: /locale/en
     ignore:
       - /locale/en/old
-    translation: /folder/%locale%/%original_file_name%.%file_extension%
+    translation: /locale/%locale%/%original_file_name%.%file_extension%
