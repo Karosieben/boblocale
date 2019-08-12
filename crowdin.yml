@@ -1,0 +1,5 @@
+files:
+  - source: /locale/en
+    ignore:
+      - /locale/en/old
+    translation: /folder/%two_letters_code%/%original_file_name%
