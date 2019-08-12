@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.17.4
+Date: 2019-08-12
+  Changes:
+    - Updated korean translation by Xagros
+    - Updated german translation by Karosieben
+
+  Other:
+    - Moved the translation to crowdin. Jump over to contribute easily!
+
+---------------------------------------------------------------------------------------------------
 Version: 0.17.3
 Date: 2019-08-09
   Features:
