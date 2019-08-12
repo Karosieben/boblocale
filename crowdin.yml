@@ -2,4 +2,6 @@ files:
   - source: /locale/en
     ignore:
       - /locale/en/old
-    translation: /locale/%two_letters_code%/%original_file_name%
+    translation: /locale/%two_letters_code%/%file_name%_%two_letters_code%.cfg
+    dest: /%file_name%.ini
+    type: ini
