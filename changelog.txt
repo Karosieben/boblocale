@@ -50,7 +50,7 @@ Date: 2019-08-02
   Features:
     - Added changelog (obviously)
 
-    Changes:
+  Changes:
     - Updated ukrainian translation by burunduk
     - Updated taiwanese translation by k98a
     - Updated japanese translation by shirutan
