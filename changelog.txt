@@ -5,7 +5,7 @@ Date: 2019-
     - Updated dutch translation
 
   Bugfixes:
-    - Fixed typo in german translation
+    - Fixed typos in german translation
 
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.6
