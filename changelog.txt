@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.17.11
+Date: 2019-09-10
+  Changes:
+    - Updated german translation
+    - Updated japanese translation
+    - Updated korean translation
+    - Updated russian translation
+    - Updated spanish translation
+
+---------------------------------------------------------------------------------------------------
 Version: 0.17.10
 Date: 2019-09-03
   Changes:
