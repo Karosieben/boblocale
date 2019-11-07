@@ -1,4 +1,18 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.17.15
+Date: 2019-11-07
+  Features:
+    - Added partial czech translation
+
+  Changes:
+    - Updated simplified chinese translation
+    - Updated french translation
+    - Updated german translation
+    - Updated korean translation
+    - Updated russian translation
+    - Updated turkish translation
+
+---------------------------------------------------------------------------------------------------
 Version: 0.17.14
 Date: 2019-10-07
   Changes:
