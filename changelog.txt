@@ -7,6 +7,11 @@ Date: 2020-01-23
     - Updated dutch translation
     - Updated czech translation
     - Updated turkish translation
+    - Updated french translation
+    - Updated brazilian portuguese translation
+    - Updated spanish translation
+    - Updated ukrainian translation
+    - Updated polish translation
 
 ---------------------------------------------------------------------------------------------------
 Version: 0.17.17
