@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.17.18
+Date: 2020-01-23
+  Changes:
+    - Updated russian translation
+    - Updated simplified chinese translation
+    - Updated dutch translation
+    - Updated czech translation
+    - Updated turkish translation
+
+---------------------------------------------------------------------------------------------------
 Version: 0.17.17
 Date: 2019-11-22
   Changes:
