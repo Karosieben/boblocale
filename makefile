@@ -21,7 +21,7 @@ check:
 #	endif
 
 zip:
-	$(eval NAME := $(shell jq -r '.name' info.json || { echo "jq is missing. Please install jq.\nExiting..."; exit 0; }))
+	$(eval NAME := $(shell jq -r '.name' info.json || { echo "jq is missing. Please install jq.\nExiting..."; exit 1; }))
 	$(eval VERSION := $(shell jq -r '.version' info.json))
 	@echo $(NAME)_$(VERSION)
 	@echo make temporary directory
