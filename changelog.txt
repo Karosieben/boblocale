@@ -1,4 +1,25 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.18.1
+Date: 2020-03-27
+  Changes:
+    - Updated simplified chinese translation
+    - Updated traditional chinese translation
+    - Updated czech translation
+    - Updated dutch translation
+    - Updated french translation
+    - Updated german translation
+    - Updated indonesian translation
+    - Updated italian translation
+    - Updated japanese translation
+    - Updated korean translation
+    - Updated polish translation
+    - Updated portuguese translation
+    - Updated russian translation
+    - Updated spanish translation
+    - Updated turkish translation
+    - Updated ukrainian translation
+
+---------------------------------------------------------------------------------------------------
 Version: 0.18.0
 Date: 2020-01-26
   Info:
