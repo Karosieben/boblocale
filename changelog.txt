@@ -1,6 +1,12 @@
 --------------------------------------------------------------------------------------------------
 Version: 0.18.2
 Date: 2020-04-26
+  Bugfixes:
+    - Fixed duplicate key in japanese translation of bob classes.
+
+--------------------------------------------------------------------------------------------------
+Version: 0.18.2
+Date: 2020-04-26
   Changes:
     - Updated czech translation
     - Updated japanese translation
