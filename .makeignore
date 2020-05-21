@@ -12,3 +12,4 @@ scripts
 boblocale_*
 makefile
 crowdin.yml
+thumbnail.xcf
