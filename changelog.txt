@@ -1,4 +1,14 @@
 --------------------------------------------------------------------------------------------------
+Version: 0.18.6
+Date: 2020-05-28
+  Changes:
+    - Updated Thumbnail
+    - Updated french translation
+    - Updated german translation
+    - Updated russian translation
+    - Updated ukrainian translation
+
+--------------------------------------------------------------------------------------------------
 Version: 0.18.5
 Date: 2020-05-21
   Features:
