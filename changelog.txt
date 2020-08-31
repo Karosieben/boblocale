@@ -3,7 +3,20 @@ Version: 1.0.0
 Date: 2020-08-31
   Info:
     - First rough release for Factorio 1.0
-    - Same locale as 0.18.6, new locales coming in early August 2020
+
+  Bugfixes:
+    - Fixed bug in japanese translation with duplicate key "bobmods-classes-editor-mode"
+
+  Changes:
+    - Updated brazilian portuguese translation
+    - Updated czech translation
+    - Updated dutch translation
+    - Updated german translation
+    - Updated japanese translation
+    - Updated polish translation
+    - Updated russian translation
+    - Updated simplified chinese translation
+    - Updated spanish translation
 
 --------------------------------------------------------------------------------------------------
 Version: 0.18.6
