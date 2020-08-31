@@ -10,15 +10,15 @@ ignore:
 all: check zip
 
 check:
-	ifeq ("",($(wildcard ./info.json)))
-		$(error "info.json file is missing! Exiting...")
-	endif
-	ifeq (, $(shell test -s .makeignore)
-		$(error ".makeignore file is missing! If you need more information about that file, run \"make ignore\".\nExiting...")
-	endif
-	ifeq (, $(shell which jq))
-		$(error "jq is missing. Please install it using yuor normal package manager on linux.\nExiting...")
-	endif
+#	ifeq (, $(shell test -f ./info.json))
+#		$(error "info.json file is missing! Exiting...")
+#	endif
+#	ifeq (, $(shell test -f ./.makeignore)
+#		$(error ".makeignore file is missing! If you need more information about that file, run \"make ignore\".\nExiting...")
+#	endif
+#	ifeq (, $(shell which jq))
+#		$(error "jq is missing. Please install it using yuor normal package manager on linux.\nExiting...")
+#	endif
 
 zip:
 	$(eval NAME := $(shell jq -r '.name' info.json || { echo "jq is missing. Please install jq.\nExiting..."; exit 1; }))
