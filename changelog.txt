@@ -1,4 +1,17 @@
 --------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2020-09-12
+  Features:
+    - Completed czech translation
+    - Completed german translation
+    - Completed korean translation
+
+  Changes:
+    - Updated japanese translation
+    - Updated simplified chinese translation
+    - Updated traditional chinese translation
+
+--------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2020-08-31
   Info:
