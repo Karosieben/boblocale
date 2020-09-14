@@ -1,25 +1,36 @@
---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 2020-09-14
+  Bugfixes:
+    - Fixed bug with unparseable changelog, so it should be visible in-game again
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2020-09-14
+  Features:
+    - Completed russian translation
+  Changes:
+    - Updated turkish translation
+
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2020-09-12
   Features:
     - Completed czech translation
     - Completed german translation
     - Completed korean translation
-
   Changes:
     - Updated japanese translation
     - Updated simplified chinese translation
     - Updated traditional chinese translation
 
---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2020-08-31
   Info:
     - First rough release for Factorio 1.0
-
   Bugfixes:
     - Fixed bug in japanese translation with duplicate key "bobmods-classes-editor-mode"
-
   Changes:
     - Updated brazilian portuguese translation
     - Updated czech translation
@@ -31,7 +42,7 @@ Date: 2020-08-31
     - Updated simplified chinese translation
     - Updated spanish translation
 
---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 Version: 0.18.6
 Date: 2020-05-28
   Changes:
@@ -41,17 +52,16 @@ Date: 2020-05-28
     - Updated russian translation
     - Updated ukrainian translation
 
---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 Version: 0.18.5
 Date: 2020-05-21
   Features:
     - Added Thumbnail
-
   Changes:
     - Updated czech translation
     - Updated german translation
 
---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 Version: 0.18.4
 Date: 2020-05-17
   Changes:
@@ -60,13 +70,13 @@ Date: 2020-05-17
     - Updated german translation
     - Updated russian translation
 
---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 Version: 0.18.3
 Date: 2020-04-26
   Bugfixes:
     - Fixed duplicate key in japanese translation of bob classes.
 
---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 Version: 0.18.2
 Date: 2020-04-26
   Changes:
@@ -79,7 +89,7 @@ Date: 2020-04-26
     - Updated korean translation
     - Updated polish translation
 
---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 Version: 0.18.1
 Date: 2020-03-27
   Changes:
@@ -144,7 +154,6 @@ Version: 0.17.15
 Date: 2019-11-07
   Features:
     - Added partial czech translation
-
   Changes:
     - Updated simplified chinese translation
     - Updated french translation
@@ -158,7 +167,6 @@ Version: 0.17.14
 Date: 2019-10-07
   Changes:
     - Updated russian translation
-
   Bugfixes:
     - Fixed typo in german translation
 
@@ -202,7 +210,6 @@ Version: 0.17.8
 Date: 2019-08-23
   Features:
     - Completed dutch translation
-
   Changes:
     - Updated japanese translation
 
@@ -211,7 +218,6 @@ Version: 0.17.7
 Date: 2019-08-21
   Changes:
     - Updated dutch translation
-
   Bugfixes:
     - Fixed typos in german translation
 
