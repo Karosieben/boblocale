@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 2020-09-16
+  Bugfixes:
+    - Fixed bug in japanese translation with duplicate key (again, hopefully for the last time)
+  Changes:
+    - Updated traditional chinese translation
+
+---------------------------------------------------------------------------------------------------
 Version: 1.0.3
 Date: 2020-09-14
   Bugfixes:
@@ -292,3 +300,31 @@ Date: 2019-03-04
     - Updated french translation by bethouxa
     - Updated japanese translation by shirutan
     - Updated korean translation by GimoXagros
+
+---------------------------------------------------------------------------------------------------
+Version: 0.16.8
+Date: 2018-07-11
+  Bugfixes:
+    - Fixed typo in russian translation
+    - Fixed typos in german translation
+  Features:
+    - Added german support for some mods of morebobs
+
+---------------------------------------------------------------------------------------------------
+Version: 0.16.7
+Date: 2018-07-11
+  Changes:
+    - Expanded indonesian translation
+    - Updated japanese translation
+    - Updated korean translation
+    - Updated russian translation
+    - Updated ukrainian translation
+    - Updated french translation
+    - Updated german translation
+
+---------------------------------------------------------------------------------------------------
+Version: 0.16.6
+Date: 2018-03-12
+  Features:
+    - Added new ShinyBob to translations
+  Changes:
