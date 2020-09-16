@@ -5,6 +5,7 @@ Date: 2020-09-16
     - Fixed bug in japanese translation with duplicate key (again, hopefully for the last time)
   Changes:
     - Updated traditional chinese translation
+    - Added older changelogs
 
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.3
@@ -328,3 +329,41 @@ Date: 2018-03-12
   Features:
     - Added new ShinyBob to translations
   Changes:
+    - Expanded indonesian translation
+    - Updated japanese translation
+    - Updated korean translation
+    - Updated russian translation
+    - Updated ukrainian translation
+    - Updated french translation
+    - Updated german translation
+
+---------------------------------------------------------------------------------------------------
+Version: 0.16.5
+Date: 2018-02-16
+  Features:
+    - New partial indonesian translation
+  Bugfixes:
+    - Fixed dependency bug with Flowcontrol for Bob's
+  Changes:
+    - Updated japanese translation
+    - Updated korean translation
+    - Updated french translation
+    - Updated turkish translation
+    - Updated spanish translation
+    - Updated german translation
+
+---------------------------------------------------------------------------------------------------
+Version: 0.16.4
+Date: 2018-02-08
+  Changes:
+    - Updated ukrainian translation
+    - Updated french translation
+    - Updated german translation
+
+---------------------------------------------------------------------------------------------------
+Version: 0.16.3
+Date: 2018-02-06
+  Changes:
+    - Updated french translation
+    - Updated russian translation
+
