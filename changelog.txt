@@ -5,6 +5,7 @@ Date: 2020-09-24
     - Updated brazilian portuguese translation
     - Updated german translation
     - Updated traditional chinese translation
+    - Added older changelogs
 
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.4
@@ -374,4 +375,33 @@ Date: 2018-02-06
   Changes:
     - Updated french translation
     - Updated russian translation
+
+---------------------------------------------------------------------------------------------------
+Version: 0.16.2
+Date: 2018-02-06
+  Features:
+    - Added support for bobclasses (currently german only)
+  Changes:
+    - Updated french translation
+    - Updated german transltion
+    - Updated ukrainian translation
+
+---------------------------------------------------------------------------------------------------
+Version: 0.16.1
+Date: 2018-01-23
+  Bugfixes:
+    - Fixed dependency bug
+  Changes:
+    - Updated german translation
+    - Updated ukrainian translation
+
+---------------------------------------------------------------------------------------------------
+Version: 0.16.0
+Date: 2018-01-11
+  Info:
+    - First rough relese for Factorio 0.16
+  Changes:
+    - Updated german translation
+    - Updated polish translation
+    - Updated taiwanese mandarin translation
 
