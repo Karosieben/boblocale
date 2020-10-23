@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.7
+Date: 2020-10-23
+  Bugfixes:
+    - Removed duplicate files in french translation
+    - Removed duplicate files in simplified chinese translation
+    - Romoved some old files of unmaintained mods
+
+---------------------------------------------------------------------------------------------------
 Version: 1.0.6
 Date: 2020-10-23
   Changes:
