@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.6
+Date: 2020-10-23
+  Changes:
+    - Updated brazilian portuguese translation
+    - Updated czech translation
+    - Updated german translation
+
+---------------------------------------------------------------------------------------------------
 Version: 1.0.5
 Date: 2020-09-24
   Changes:
