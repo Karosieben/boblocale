@@ -1,4 +1,28 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020-12-18
+  Info:
+    - First rough release for Factorio 1.1
+  Changes:
+    - Updated simplified chinese translation
+    - Updated french translation
+    - Updated polish translation
+    - Updated german translation
+    - Updated turkish translation
+    - Updated russian translation
+    - Updated ukrainian translation
+    - Updated portuguese translation
+    - Updated brazilian portuguese translation
+    - Updated indonesian translation
+    - Updated traditional chinese translation
+    - Updated czech translation
+    - Updated italian translation
+    - Updated spanish translation
+    - Updated korean translation
+    - Updated dutch translation
+    - Updated japanese translation
+
+---------------------------------------------------------------------------------------------------
 Version: 1.0.7
 Date: 2020-10-23
   Bugfixes:
