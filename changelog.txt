@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 2021-02-27
+  Changes:
+    - Updated traditional chinese translation
+    - Updated dutch translation
+    - Updated german translation
+    - Updated korean translation
+    - Updated polish translation
+    - Updated russian translation
+
+---------------------------------------------------------------------------------------------------
 Version: 1.1.2
 Date: 2020-12-24
   Changes:
