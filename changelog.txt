@@ -1,4 +1,18 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.6
+Date: 2022-10-29
+  Changes:
+    - Updated brazilian portuguese translation
+    - Updated french translation
+    - Updated italian translation
+    - Updated polish translation
+    - Updated russian translation
+    - Updated spanish translation
+    - Updated thai translation
+    - Updated turkish translation
+    - Updated ukrainian translation
+
+---------------------------------------------------------------------------------------------------
 Version: 1.1.5
 Date: 2021-09-04
   Changes:
